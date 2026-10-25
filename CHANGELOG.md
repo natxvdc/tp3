@@ -1,3 +1,7 @@
+[Ejercicio 03]
+- Se diseña el modelo lógico: Buque, Radar, Movimiento y Evidencia.
+- Se documentan atributos, claves y cardinalidades en reports.
+
 [Ejercicio 02 - dataset procesado]
 - Se versiona con DVC port_log/data/processed/port_movements_image.csv.
 
