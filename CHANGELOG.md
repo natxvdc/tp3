@@ -1,3 +1,7 @@
+[Ejercicio 06]
+- Se implementan 6 consultas SQLAlchemy sobre transito_portuario.
+- Top buques, movimientos sin evidencia, radares, reincidentes, exceso por muelle y cobertura de evidencia.
+
 [Ejercicio 05]
 - Se crea la base transito_portuario con SQLAlchemy (SQLite).
 - Se migra port_movements_image.csv usando procesar_fila_csv.
