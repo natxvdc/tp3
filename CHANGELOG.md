@@ -1,3 +1,7 @@
+[Ejercicio 02 - imágenes]
+- Se configura DVC con Supabase como remoto S3.
+- Se migran a DVC las imágenes de port_log/data/raw/imgs.
+
 [Ejercicio 02 - gráficos]
 - Se migran a DVC los gráficos de port_log/data/interim/plots.
 
