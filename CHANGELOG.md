@@ -1,3 +1,8 @@
+[Ejercicio 08]
+- Se implementa buscar_buque_por_imagen con OpenCLIP y ChromaDB.
+- Se recuperan buque, movimientos y evidencias desde la base relacional.
+- Se advierte cuando la imagen es un plate o la similitud es baja.
+
 [Ejercicio 07]
 - Se crea la base vectorial buque_vectorial con ChromaDB y OpenCLIP.
 - Un embedding por buque, desde su imagen complete de mayor ratio.
