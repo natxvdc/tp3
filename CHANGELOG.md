@@ -1,3 +1,6 @@
+[Ejercicio 02 - gráficos]
+- Se migran a DVC los gráficos de port_log/data/interim/plots.
+
 # Registro de Cambios (Changelog)
 
 ## [Sprint 3] - 2026-10-25
