@@ -1,3 +1,7 @@
+[Ejercicio 05]
+- Se crea la base transito_portuario con SQLAlchemy (SQLite).
+- Se migra port_movements_image.csv usando procesar_fila_csv.
+
 [Ejercicio 04]
 - Se implementan los modelos Buque, Radar, Movimiento y Evidencia.
 - Se completa procesar_fila_csv con reutilización de Buque y Radar.
