@@ -1,3 +1,7 @@
+[Ejercicio 04]
+- Se implementan los modelos Buque, Radar, Movimiento y Evidencia.
+- Se completa procesar_fila_csv con reutilización de Buque y Radar.
+
 [Ejercicio 03]
 - Se diseña el modelo lógico: Buque, Radar, Movimiento y Evidencia.
 - Se documentan atributos, claves y cardinalidades en reports.
