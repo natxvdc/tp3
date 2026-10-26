@@ -1,21 +1,14 @@
-# Sistema de Monitoreo y Control Portuario (`port_log`)
+# TRABAJO-INTEGRADOR-HERRAMIENTAS-DE-SOFTWARE-PARA-ANALISIS-DE-DATOS-GRUPO-4
 
-**Sprint de Trabajo:** Sprint 3 (Integración de Datos y Modelado ORM)
+## Port Log - Sprint 3 (actual)
 
----
+### 1. Objetivo
+Aplicar conocimientos de bases de datos relacionales (SQLAlchemy), versionado
+de datos (DVC) y búsqueda por similitud visual (ChromaDB) para profesionalizar
+el sistema portuario.
 
-## Introducción y Contexto
-
-En el marco del desarrollo de la plataforma de gestión para la autoridad portuaria, el sistema `port_log` centraliza y procesa información operativamente crítica sobre el tráfico marítimo y los controles de velocidad en muelles. 
-
-Durante los sprints previos se llevaron a cabo el procesamiento del registro de movimientos de buques (Sprint 1) y el análisis de calidad e identificación visual de patentes mediante procesamiento de imágenes (Sprint 2). En este **Sprint 3**, el enfoque se centra en la integración de ambas fuentes de datos mediante un modelo relacional persistido en base de datos con **SQLAlchemy**, gestionando el control de versiones del conjunto de datos con **DVC**.
-
----
-
-## Objetivo
-
-El objetivo principal de este sprint es consolidar el pipeline integrador de datos portuarios mediante:
-
-1. **Persistencia con ORM:** Mapear e insertar las entidades `Buque`, `Radar`, `Movimiento` y `Evidencia` en la base de datos a partir de los datos procesados del puerto.
-2. **Gestión de Radares Móviles:** Implementar consultas analíticas complejas que contabilicen los movimientos e infracciones registrados por radares móviles a lo largo de diferentes muelles.
-3. **Control de Versionado de Datos:** Vincular el almacenamiento remoto (Supabase S3) con DVC para garantizar la trazabilidad de los artefactos y datasets del proyecto.
+### 2. Introducción y Contexto del problema
+Sprint 3 - Desarrollar. El sistema ha crecido en volumen y complejidad. El
+equipo necesita persistencia estructurada (de CSV a base relacional con ORM),
+auditoría de cambios (qué versión del dataset se usó en cada análisis) e
+identificación visual de buques por similitud de imagen cuando el OCR falla.
