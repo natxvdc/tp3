@@ -9,7 +9,7 @@ infracciones tienen evidencia visual y quién reincide.
 
 ## 2. Ventaja de la base vectorial frente a solo usar OCR
 El OCR depende de que la matrícula sea legible: en la base final solo
-0 de 0 infracciones (0,00 %) pudieron
+474 de 474 infracciones (100,00 %) pudieron
 validarse con imagen. El embedding compara la
 apariencia global del buque, por lo que sirve aunque el texto esté borroso,
 tapado o mal leído (ej. 0 por O), y no requiere una coincidencia exacta de

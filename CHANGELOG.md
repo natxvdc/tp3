@@ -1,3 +1,6 @@
+[Ejercicio 09]
+- Se redacta la conclusión integradora de los 3 sprints.
+
 [Ejercicio 08]
 - Se implementa buscar_buque_por_imagen con OpenCLIP y ChromaDB.
 - Se recuperan buque, movimientos y evidencias desde la base relacional.
