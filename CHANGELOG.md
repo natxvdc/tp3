@@ -1,3 +1,7 @@
+[Ejercicio 02 - imágenes]
+- Se configura DVC con Supabase como remoto S3.
+- Se migran a DVC las imágenes de port_log/data/raw/imgs.
+
 [Ejercicio 01]
 - Se crea la rama Sprint_3 a partir de Sprint_2.
 - Se verifica el acceso a los datasets de los sprints anteriores.
