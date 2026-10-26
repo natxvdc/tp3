@@ -1,3 +1,6 @@
+[Ejercicio 02 - dataset procesado]
+- Se versiona con DVC port_log/data/processed/port_movements_image.csv.
+
 [Ejercicio 02 - gráficos]
 - Se migran a DVC los gráficos de port_log/data/interim/plots.
 
