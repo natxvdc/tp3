@@ -1,3 +1,7 @@
+[Ejercicio 07]
+- Se crea la base vectorial buque_vectorial con ChromaDB y OpenCLIP.
+- Un embedding por buque, desde su imagen complete de mayor ratio.
+
 [Ejercicio 06]
 - Se implementan 6 consultas SQLAlchemy sobre transito_portuario.
 - Top buques, movimientos sin evidencia, radares, reincidentes, exceso por muelle y cobertura de evidencia.
